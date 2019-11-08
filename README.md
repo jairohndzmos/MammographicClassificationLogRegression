@@ -36,7 +36,9 @@ Universitätsstraße 21-23
 ## Results
 
 Metrics shows some good results, as the following confusion matrix suggest
+
 ![alt text](https://i.imgur.com/5xucvaE.png)
+
 There some others metrics supporting remarkable accuracy
 
 ##   Improvements
